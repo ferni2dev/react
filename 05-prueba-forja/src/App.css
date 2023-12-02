@@ -1,0 +1,19 @@
+.contenedorLogin {
+  max-width: 800px;
+}
+
+.contenedorLogin h1 {
+  color: aquamarine;
+  text-align: center;
+}
+
+.loginForm {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.loginForm label {
+  color: white;
+}
